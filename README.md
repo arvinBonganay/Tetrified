@@ -1,6 +1,7 @@
 # Tetrified
 by 
-Arvin Bonganay /n
+Arvin Bonganay 
+
 Jhessa Mae Uy
 
 Modified Tetris created in masm assembly.
